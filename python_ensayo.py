@@ -1,0 +1,11 @@
+nombre = input("por favor ingrese su nombre = ")
+comida = input("por favor ingrese su comida favorita = ")
+color = input("por favor ingrese su color favorito = ")
+animal = input("por favor ingrese un animal = ")
+pais = input("iongrese un pais = ")
+print("su nombre es = ", nombre)
+print("su comida favorita es = ", comida)
+print("su color favorito es = ", color)
+print("su animal es = ", animal)
+print("su pais es = ", pais)
+
